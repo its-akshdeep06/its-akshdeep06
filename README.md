@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Akshdeep+👋;Full-Stack+Developer;CSE+Undergrad+%7C+SRM+University;Building+Ideas+Into+Real+Products;Passionate+Builder+%26+Problem+Solver)](https://github.com/its-akshdeep06)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=its-akshdeep06&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)font=Share+Tech+Mono&weight=800&size=36&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Akshdeep+👋;Full-Stack+Developer;CSE+Undergrad+%7C+SRM+University;Building+Ideas+Into+Real+Products;Passionate+Builder+%26+Problem+Solver)](https://github.com/its-akshdeep06)
 
 </div>
 
@@ -179,18 +179,6 @@ Exploring modern development practices, new technologies, and the intersection o
   ![](https://github-readme-stats.vercel.app/api?username=its-akshdeep06&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=its-akshdeep06&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-akshdeep06&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=its-akshdeep06&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
