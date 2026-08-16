@@ -190,7 +190,7 @@ Exploring modern development practices, new technologies, and the intersection o
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=its-akshdeep06&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=its-akshdeep06&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
