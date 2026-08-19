@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=white" width="130" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://akshdeep06.vercel.app/">
+  <a href="https://akshdeep.in/">
     <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=rocket&logoColor=black" width="130" alt="Portfolio" />
   </a>
 </div>
