@@ -252,7 +252,7 @@ The project was recognized for combining machine learning, explainable AI, inter
 
 [![GitHub](https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/its-akshdeep06)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-akshdeep06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=rocket&logoColor=black)](https://akshdeep06.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=rocket&logoColor=black)](https://akshdeep.in)
 [![Instagram](https://img.shields.io/badge/Instagram-7B2FFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_akshdeep06)
 [![Email](https://img.shields.io/badge/Email-00D4FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:akshdeepsingh2kk@gmail.com)
 
